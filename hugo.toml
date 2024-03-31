@@ -1,0 +1,4 @@
+baseURL = 'https://blog.joshgadd.com/'
+languageCode = 'en-gb'
+title = 'JG blog'
+theme = 'PaperMod'
